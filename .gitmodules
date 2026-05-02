@@ -1,0 +1,3 @@
+[submodule "revatureJs"]
+	path = revatureJs
+	url = https://github.com/phoenixzero4/revatureJs.git
